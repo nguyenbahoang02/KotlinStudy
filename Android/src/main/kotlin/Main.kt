@@ -1,9 +1,9 @@
-fun EcEc(number: Int){
+fun ecec(number: Int){
     repeat(number){
         println("éc éc")
     }
 }
 
 fun main(args: Array<String>) {
-    EcEc(10)
+    ecec(10)
 }
